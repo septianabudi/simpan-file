@@ -14,3 +14,5 @@ Repo link: https://github.com/septianabudi/simpan-file
 + Go to **Action> Run workflow**
 + Reload the page and press > build**
 + Press the down arrow on Connect To Your RPD to get IP, User, Password.
+
+![](images/filename%Win .png)
