@@ -16,4 +16,4 @@ Repo link: https://github.com/septianabudi/simpan-file
 + Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
 # images In ReadMes
-![](images/Win .png)
+![](https://github.com/septianabudi/simpan-file/blob/main/Win%20.png)
